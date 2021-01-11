@@ -1,6 +1,9 @@
+<!-- IMPORTING HEADER -->
 <?php
 include_once "./includes/header.php";
 ?>
+
+<!-- DISPLAYING PHOTOS -->
 <div class="container">
     <div class="row mt-5">
         <div class="col-sm-6">
@@ -28,6 +31,8 @@ include_once "./includes/header.php";
     </div>
 </div>
 <div class="p-5"></div>
+
+<!-- IMPORTING FOOTER -->
 <?php
     include_once "./includes/footer.php";
 ?>

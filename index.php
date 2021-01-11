@@ -1,4 +1,4 @@
-  <!-- IMPORTING HEADER.PHP -->
+  <!-- IMPORTING HEADER -->
     <?php
   include_once "./includes/header.php";
   ?>
@@ -68,6 +68,8 @@
     </div>
     <br />
     <br />
+
+    <!-- MAIN CONTENT -->
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
@@ -126,6 +128,8 @@
       </div>
     </div>
     <div class="p-5"></div>
+    
+    <!-- IMPORTING FOOTER -->
     <?php
       include_once "./includes/footer.php";
     ?>

@@ -1,6 +1,9 @@
+<!-- IMPORTING HEADER -->
 <?php
 include_once "./includes/header.php";
 ?>
+
+<!-- CREATING CONTACT FORM -->
 <div class="container">
     <div class="row mt-5">
         <div class="col-sm-12">
@@ -29,6 +32,8 @@ include_once "./includes/header.php";
         </div>
     </div>
 </div>
+
+<!-- IMPORTING FOOTER -->
 <?php
     include_once "./includes/footer.php";
 ?>
