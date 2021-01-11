@@ -27,21 +27,21 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img
-            src="./images/pexels-eberhard-grossgasteiger-443446.jpg"
+            src="./images/index/pexels-eberhard-grossgasteiger-443446.jpg"
             class="d-block w-100"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
-            src="./images/pexels-denafi-sy-786220.jpg"
+            src="./images/index/pexels-denafi-sy-786220.jpg"
             class="d-block w-100"
             alt="..."
           />
         </div>
         <div class="carousel-item">
           <img
-            src="./images/pexels-emma-bauso-2253870.jpg"
+            src="./images/index/pexels-emma-bauso-2253870.jpg"
             class="d-block w-100"
             alt="..."
           />
@@ -72,7 +72,7 @@
       <div class="row">
         <div class="col-sm-6">
           <img
-            src="./images/pexels-matt-hardy-2179205.jpg"
+            src="./images/index/pexels-matt-hardy-2179205.jpg"
             alt=""
             width="505.14px"
             height="378.85px"
@@ -117,7 +117,7 @@
         </div>
         <div class="col-sm-6">
           <img
-            src="./images/pexels-daria-shevtsova-1257110.jpg"
+            src="./images/index/pexels-daria-shevtsova-1257110.jpg"
             alt=""
             width="576px"
             height="384px"
