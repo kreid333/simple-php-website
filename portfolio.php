@@ -27,6 +27,7 @@ include_once "./includes/header.php";
         </div>
     </div>
 </div>
+<div class="p-5"></div>
 <?php
     include_once "./includes/footer.php";
 ?>

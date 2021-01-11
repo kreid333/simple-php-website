@@ -9,6 +9,15 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 </head>
 <style>
+  html {
+    height: 100%;
+  }
+
+  body {
+    min-height: 100%;
+    position: relative;
+  }
+
   .carousel-item {
     height: 500px;
   }
@@ -23,6 +32,11 @@
     padding: 20px;
     background-color: #f8f9fa;
     color: black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
   }
 
   #footer-text {
